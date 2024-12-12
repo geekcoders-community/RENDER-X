@@ -80,6 +80,17 @@ We welcome contributions! If you would like to improve the landing page or expan
 - Create a pull request from your fork to the original repository for review.
 
 ---
+## 📢 Additional Contribution Guidelines:
+If anyone wants to develop their own version of the landing page and showcase it to us, please follow these steps:
+
+- Create your version of the landing page.
+- Push it to the contributions/ folder.
+- Submit a pull request with a description of the changes you made.
+
+  
+This version includes the new section "Additional Contribution Guidelines" for submitting a new version of the landing page to the `contributions/` folder.
+
+
 ## 🌟 Credits
 
 This repository was created and maintained by the **GeekCoders Community** to support participants in their journey of web development and beyond.
