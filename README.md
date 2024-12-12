@@ -16,7 +16,7 @@ Welcome to the **Render-X Repository**, the central hub for all resources and pr
   - `fonts/` – Includes custom fonts used for styling.  
 
 **Purpose:**  
-This repository serves as a resource for learning and practicing web development with HTML, CSS, and JavaScript. You can also contribute by making pull requests to improve the landing page or add to the notes.
+- This repository serves as a resource for learning and practicing web development with HTML, CSS, and JavaScript. You can also contribute by making pull requests to improve the landing page or add to the notes.
 ---
 
 ### 2. **`Notes/`**  
